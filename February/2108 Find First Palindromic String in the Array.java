@@ -1,3 +1,6 @@
+// Let's connect on LinkedIn: aka.ms/includerajat
+// LeetCode problem link -> https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+
 class Solution {
   public boolean isPalindrome(String word) {
     int s = 0, e = word.length() - 1;
